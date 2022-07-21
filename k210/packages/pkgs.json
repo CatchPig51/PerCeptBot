@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/multimedia/LVGL/LVGL", 
+  "ver": "latest", 
+  "name": "LVGL"
+ }, 
+ {
+  "path": "/packages/peripherals/kendryte-sdk", 
+  "ver": "latest", 
+  "name": "KENDRYTE_SDK"
+ }
+]

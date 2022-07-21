@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"RTT_Studio.Build.Parallel_Jobs": "8",
+		"files.associations": {
+			"atomic": "c",
+			"lvgl.h": "c",
+			"littlevgl2rtt.h": "c"
+		}
+	}
+}

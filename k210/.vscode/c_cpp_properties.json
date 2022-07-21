@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "intelliSenseMode": "clang-x64",
+            "name": "Win32",
+            "cppStandard": "c++17",
+            "cStandard": "c99",
+            "compilerPath": "E:/rt-thread-env/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/riscv-none-embed-gcc",
+            "includePath": [
+                ".",
+                "applications",
+                "driver",
+                "packages\\kendryte-sdk-v0.5.7\\kendryte-standalone-sdk\\lib\\bsp\\include",
+                "packages\\kendryte-sdk-v0.5.7\\kendryte-standalone-sdk\\lib\\drivers\\include",
+                "packages\\kendryte-sdk-v0.5.7\\kendryte-standalone-sdk\\lib\\nncase\\include",
+                "packages\\kendryte-sdk-v0.5.7\\kendryte-standalone-sdk\\lib\\utils\\include",
+                "packages\\kendryte-sdk-v0.5.7\\kendryte-standalone-sdk\\third_party\\xtl\\include",
+                "..\\..\\components\\dfs\\filesystems\\devfs",
+                "..\\..\\components\\dfs\\filesystems\\elmfat",
+                "..\\..\\components\\dfs\\include",
+                "..\\..\\components\\drivers\\include",
+                "..\\..\\components\\drivers\\spi",
+                "..\\..\\components\\drivers\\spi\\sfud\\inc",
+                "..\\..\\components\\finsh",
+                "..\\..\\components\\legacy",
+                "..\\..\\components\\legacy\\dfs",
+                "..\\..\\components\\libc\\compilers\\common",
+                "..\\..\\components\\libc\\compilers\\newlib",
+                "..\\..\\components\\libc\\cplusplus",
+                "..\\..\\components\\libc\\cplusplus\\cpp11\\gcc",
+                "..\\..\\components\\libc\\posix\\delay",
+                "..\\..\\components\\libc\\posix\\io\\poll",
+                "..\\..\\components\\libc\\posix\\io\\stdio",
+                "..\\..\\components\\libc\\posix\\ipc",
+                "..\\..\\components\\libc\\posix\\pthreads",
+                "..\\..\\components\\libc\\posix\\signal",
+                "..\\..\\components\\utilities\\ulog",
+                "..\\..\\include",
+                "..\\..\\libcpu\\risc-v\\common",
+                "..\\..\\libcpu\\risc-v\\k210"
+            ],
+            "defines": [
+                "HAVE_CCONFIG_H",
+                "RT_USING_LIBC",
+                "RT_USING_NEWLIB",
+                "_POSIX_C_SOURCE=1",
+                "__RTTHREAD__"
+            ]
+        }
+    ],
+    "version": 4
+}
