@@ -1,5 +1,8 @@
 # Percept Bot
 Percept Bot是基于k210+esp32的社交机器人，Percept Bot项目将会模拟一种一个有"生命力"的人在一个有"生命力"的环境下生活的这种关系。Percept Bot将拟合具有"生命力"的一般形式表现和基于神经网络模型的"智商"和"情商"。
+
+演示地址:https://www.bilibili.com/video/BV1kU4y1i7sf
+
 ## 完成情况
 
 Percept Bot项目将分为以下三个部分:
